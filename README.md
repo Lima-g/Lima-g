@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Pra contato me segue na rede abaixo!
  
 <div> 
   <a href="https://instagram.com/Lima.g
