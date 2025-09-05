@@ -13,8 +13,7 @@
 </div>
  
 <br>
- 
-### Pra contato me segue na rede abaixo!
+
  
 <div> 
   <a href="https://instagram.com/Lima.g
