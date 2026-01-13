@@ -137,7 +137,6 @@ Me chamo Gabriel Lima, tenho 26 anos e sou natural do Rio Grande do Sul. Apaixon
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernam=lima-g&show_icons=true)
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-g&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
