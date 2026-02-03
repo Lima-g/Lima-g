@@ -2,7 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Lima, tenho 26 anos e sou natural do Rio Grande do Sul. Apaixonado por tecnologia.
 
 
 ### 🤖 Linguagens e Tecnologias
