@@ -118,19 +118,3 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
- 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lima-g&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
