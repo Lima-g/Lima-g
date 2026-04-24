@@ -68,15 +68,6 @@ Bem-vindo ao meu GitHub! Gosto de construir produtos que funcionam de verdade em
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-g&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔗 Vamos conversar
 
 Estou sempre aberto para trocar ideia sobre problemas interessantes, projetos SaaS ou possíveis colaborações.
