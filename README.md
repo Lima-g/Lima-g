@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gabriel%20Lima&fontSize=42&fontColor=fff&fontAlignY=36&desc=Engenheiro%20Full%20Stack%20SaaS&descAlignY=58&descSize=20" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielsdelima)
-[![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lima.g/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriedlima@gmail.com)
 
 </div>
@@ -68,13 +68,24 @@ Bem-vindo ao meu GitHub! Gosto de construir produtos que funcionam de verdade em
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lima-g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lima-g&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🔗 Vamos conversar
 
 Estou sempre aberto para trocar ideia sobre problemas interessantes, projetos SaaS ou possíveis colaborações.
 
 - 📧 **Email:** [gabriedlima@gmail.com](mailto:gabriedlima@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/gabrielsdelima](https://linkedin.com/in/gabrielsdelima)
-- 🐦 **Twitter / X:** [@seu_usuario](https://x.com/)
+- 📸 **Instagram:** [@_lima.g](https://www.instagram.com/_lima.g/)
 
 ---
 
